@@ -13,6 +13,7 @@ int fib(int a, int b);
 int main() {
   int sum = fib(0, 1);
   cout << "sum is: " << sum << endl;
+  return 0;
 }
 
 int fib(int a, int b) {
